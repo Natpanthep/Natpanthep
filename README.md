@@ -16,7 +16,11 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Natpanthep Phongpattakorn</h1>
-<h3 align="center">A passionate frontend developer from Thailand</h3>
+<h3 align="center">I am a student at huachiew chalermprakiet university. Studying at the Faculty of Science and Technology, Department of Computer Science. Looking for a cooperative education internship, Have some basic knowledge about coding and web working.</h3>
+
+<br>
+
+<h4>interesting in game development and testing.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=natpanthep&label=Profile%20views&color=0e75b6&style=flat" alt="natpanthep" /> </p>
 

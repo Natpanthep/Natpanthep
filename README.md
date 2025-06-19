@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <br>
 
-<h4>interesting in game development and testing.</h4>
+<h3 align="center">interesting in game development and testing.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=natpanthep&label=Profile%20views&color=0e75b6&style=flat" alt="natpanthep" /> </p>
 
